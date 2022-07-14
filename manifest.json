@@ -1,0 +1,10 @@
+{
+  "name": "Fitness App",
+  "short_name": "Fitness",
+  "theme_color": "#242424",
+  "background_color": "#292929",
+  "display": "standalone",
+  "Scope": "",
+  "start_url": "/index.html",
+  "icons": []
+}
